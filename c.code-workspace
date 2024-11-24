@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../python"
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "test22.C": "cpp",
+            "NEW.C": "cpp",
+            "errore.C": "cpp"
+        }
+    }
+}
